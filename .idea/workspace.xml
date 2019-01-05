@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6adcb840-ce50-4d24-824c-449b07b73d3d" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/TopicObjects/clinical/38 The Jehovah's witness.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/TopicObjects/clinical/38 The Jehovah's witness.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/TopicObjects/clinical/39 Obesity.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/TopicObjects/clinical/39 Obesity.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/TopicObjects/clinical/40 Paediatric patient.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/TopicObjects/clinical/40 Paediatric patient.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/TopicObjects/clinical/41 Pregnancy.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/TopicObjects/clinical/41 Pregnancy.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/TopicObjects/clinical/42 Elderly patient.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/TopicObjects/clinical/42 Elderly patient.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/TopicObjects/clinical/43 Down's syndrome.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/TopicObjects/clinical/43 Down's syndrome.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/TopicObjects/clinical/44 Sickle cell anaemia.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/TopicObjects/clinical/44 Sickle cell anaemia.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/TopicObjects/clinical/45 Rheumatoid arthritis.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/TopicObjects/clinical/45 Rheumatoid arthritis.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/TopicObjects/clinical/46 Diabetes.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/TopicObjects/clinical/46 Diabetes.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/TopicObjects/clinical/47 Hypertensive patient.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/TopicObjects/clinical/47 Hypertensive patient.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/TopicObjects/clinical/48 Chronic obstructive pulmonary disease.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/TopicObjects/clinical/48 Chronic obstructive pulmonary disease.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/TopicObjects/clinical/49 Burns and trauma.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/TopicObjects/clinical/49 Burns and trauma.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/TopicObjects/clinical/50 Brainstem death and organ donation.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/TopicObjects/clinical/50 Brainstem death and organ donation.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/TopicObjects/clinical/51 Anaphylaxis.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/TopicObjects/clinical/51 Anaphylaxis.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/TopicObjects/clinical/52 Aspiration.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/TopicObjects/clinical/52 Aspiration.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/TopicObjects/clinical/53 Awareness.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/TopicObjects/clinical/53 Awareness.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/TopicObjects/clinical/54 Blood transfusion error.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/TopicObjects/clinical/54 Blood transfusion error.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/TopicObjects/clinical/55 Bradycardia.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/TopicObjects/clinical/55 Bradycardia.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/TopicObjects/clinical/56 Cyanosis.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/TopicObjects/clinical/56 Cyanosis.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/TopicObjects/clinical/57 Difficult to ventilate (high airway pressures).pickle" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/TopicObjects/clinical/57 Difficult to ventilate (high airway pressures).pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/TopicObjects/clinical/58 Failed intubation.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/TopicObjects/clinical/58 Failed intubation.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/TopicObjects/clinical/59 Failure to breathe.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/TopicObjects/clinical/59 Failure to breathe.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/TopicObjects/clinical/60 High spinal block.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/TopicObjects/clinical/60 High spinal block.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/TopicObjects/clinical/61 Hypertension.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/TopicObjects/clinical/61 Hypertension.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/TopicObjects/clinical/62 Hypotension.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/TopicObjects/clinical/62 Hypotension.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/TopicObjects/clinical/63 Hypoxia.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/TopicObjects/clinical/63 Hypoxia.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/TopicObjects/clinical/64 Intra-arterial injection.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/TopicObjects/clinical/64 Intra-arterial injection.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/TopicObjects/clinical/65 Laryngospasm.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/TopicObjects/clinical/65 Laryngospasm.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/TopicObjects/clinical/66 Local anaesthetic toxicity.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/TopicObjects/clinical/66 Local anaesthetic toxicity.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/TopicObjects/clinical/67 Malignant hyperpyrexia.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/TopicObjects/clinical/67 Malignant hyperpyrexia.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/TopicObjects/clinical/68 Needlestick injury.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/TopicObjects/clinical/68 Needlestick injury.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/TopicObjects/clinical/69 Post-dural puncture headache.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/TopicObjects/clinical/69 Post-dural puncture headache.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/TopicObjects/clinical/70 ST segment changes.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/TopicObjects/clinical/70 ST segment changes.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/TopicObjects/clinical/71 Tachyarrhythmias.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/TopicObjects/clinical/71 Tachyarrhythmias.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/TopicObjects/clinical/72 Venous air embolism.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/TopicObjects/clinical/72 Venous air embolism.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/TopicObjects/pharmacology/01 Receptors.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/TopicObjects/pharmacology/01 Receptors.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/TopicObjects/pharmacology/02 Mechanism of drug action.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/TopicObjects/pharmacology/02 Mechanism of drug action.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/TopicObjects/pharmacology/03 Drug interactions.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/TopicObjects/pharmacology/03 Drug interactions.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/TopicObjects/pharmacology/04 Drug absorption.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/TopicObjects/pharmacology/04 Drug absorption.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/TopicObjects/pharmacology/05 Drugs and the liver.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/TopicObjects/pharmacology/05 Drugs and the liver.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/TopicObjects/pharmacology/06 Drugs and the kidney.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/TopicObjects/pharmacology/06 Drugs and the kidney.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/TopicObjects/pharmacology/07 Variations in drug metabolism.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/TopicObjects/pharmacology/07 Variations in drug metabolism.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/TopicObjects/pharmacology/08 Isomers.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/TopicObjects/pharmacology/08 Isomers.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/TopicObjects/pharmacology/09 Drugs to draw.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/TopicObjects/pharmacology/09 Drugs to draw.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/TopicObjects/pharmacology/10 Exponential functions.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/TopicObjects/pharmacology/10 Exponential functions.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/TopicObjects/pharmacology/11 Dose-response curves.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/TopicObjects/pharmacology/11 Dose-response curves.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/TopicObjects/pharmacology/12 First and zero order kinetics.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/TopicObjects/pharmacology/12 First and zero order kinetics.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/TopicObjects/pharmacology/13 Volume of distribution clearance and half life.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/TopicObjects/pharmacology/13 Volume of distribution clearance and half life.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/TopicObjects/pharmacology/14 Compartment models.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/TopicObjects/pharmacology/14 Compartment models.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/TopicObjects/pharmacology/15 Total intravenous anaesthesia.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/TopicObjects/pharmacology/15 Total intravenous anaesthesia.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/TopicObjects/pharmacology/16 Induction agents.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/TopicObjects/pharmacology/16 Induction agents.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/TopicObjects/pharmacology/17 Nitrous oxide.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/TopicObjects/pharmacology/17 Nitrous oxide.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/TopicObjects/pharmacology/18 Inhalational anaesthetic agents.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/TopicObjects/pharmacology/18 Inhalational anaesthetic agents.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/TopicObjects/pharmacology/19 Neuromuscular blocking drugs.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/TopicObjects/pharmacology/19 Neuromuscular blocking drugs.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/TopicObjects/pharmacology/20 Cholineterase inhibitors and reversal agents.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/TopicObjects/pharmacology/20 Cholineterase inhibitors and reversal agents.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/TopicObjects/pharmacology/21 Antimuscarinic drugs.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/TopicObjects/pharmacology/21 Antimuscarinic drugs.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/TopicObjects/pharmacology/22 Opioids.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/TopicObjects/pharmacology/22 Opioids.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/TopicObjects/pharmacology/23 Local anaesthetics.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/TopicObjects/pharmacology/23 Local anaesthetics.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/TopicObjects/pharmacology/24 Antiemetics and prokinetics.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/TopicObjects/pharmacology/24 Antiemetics and prokinetics.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/TopicObjects/pharmacology/25 Antiarrhythmic drugs.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/TopicObjects/pharmacology/25 Antiarrhythmic drugs.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/TopicObjects/pharmacology/26 Antihypertensive agents.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/TopicObjects/pharmacology/26 Antihypertensive agents.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/TopicObjects/pharmacology/27 Diuretics.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/TopicObjects/pharmacology/27 Diuretics.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/TopicObjects/pharmacology/28 Non-steroidal anti-inflammatory drugs.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/TopicObjects/pharmacology/28 Non-steroidal anti-inflammatory drugs.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/TopicObjects/pharmacology/29 Antibiotics.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/TopicObjects/pharmacology/29 Antibiotics.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/TopicObjects/pharmacology/30 Anticoagulants.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/TopicObjects/pharmacology/30 Anticoagulants.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/TopicObjects/pharmacology/31 Anti-platelet agents.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/TopicObjects/pharmacology/31 Anti-platelet agents.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/TopicObjects/pharmacology/32 Blood.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/TopicObjects/pharmacology/32 Blood.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/TopicObjects/pharmacology/33 Hypoglycaemic agents.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/TopicObjects/pharmacology/33 Hypoglycaemic agents.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/TopicObjects/pharmacology/34 Anticonvulsants.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/TopicObjects/pharmacology/34 Anticonvulsants.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/TopicObjects/pharmacology/35 Antidepressants.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/TopicObjects/pharmacology/35 Antidepressants.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/TopicObjects/pharmacology/36 Drugs used to treat asthma.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/TopicObjects/pharmacology/36 Drugs used to treat asthma.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/TopicObjects/pharmacology/37 Miscellaneous drugs.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/TopicObjects/pharmacology/37 Miscellaneous drugs.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/topicPopulation.py" beforeDir="false" afterPath="$PROJECT_DIR$/topicPopulation.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="topicPopulation.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/topicPopulation.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="426">
+              <caret line="52" lean-forward="true" selection-start-line="52" selection-end-line="52" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+                <element signature="e#145#419#0" />
+                <element signature="e#453#581#0" />
+                <element signature="e#612#928#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Topic.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Topic.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Topics/Topic.py" />
+        <option value="$PROJECT_DIR$/Topic.py" />
+        <option value="$PROJECT_DIR$/topicPopulation.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="15" />
+    <option name="y" value="30" />
+    <option name="width" value="1890" />
+    <option name="height" value="930" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="OSCE_SOE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OSCE_SOE" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OSCE_SOE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OSCE_SOE" type="462c0819:PsiDirectoryNode" />
+              <item name="Topics" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\nabil\PycharmProjects\Exams\Primary FRCA\OSCE_SOE" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="topicPopulation" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="OSCE_SOE" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/topicPopulation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.topicPopulation" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6adcb840-ce50-4d24-824c-449b07b73d3d" name="Default" comment="" />
+      <created>1546697254785</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1546697254785</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24980484" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3291592" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Python Console" order="7" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/topicPopulation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="35" column="19" selection-start-line="35" selection-start-column="19" selection-end-line="35" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+            <element signature="e#145#419#0" />
+            <element signature="e#453#581#0" />
+            <element signature="e#612#928#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Topic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/topicPopulation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+            <element signature="e#145#419#0" />
+            <element signature="e#453#581#0" />
+            <element signature="e#612#928#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Topic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/topicPopulation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="48" column="27" lean-forward="true" selection-start-line="48" selection-start-column="27" selection-end-line="48" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+            <element signature="e#145#419#0" />
+            <element signature="e#453#581#0" />
+            <element signature="e#612#928#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Topic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/topicPopulation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+            <element signature="e#145#419#0" />
+            <element signature="e#453#581#0" />
+            <element signature="e#612#928#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Topic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="64" selection-start-line="18" selection-start-column="64" selection-end-line="18" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Topic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/topicPopulation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="426">
+          <caret line="52" lean-forward="true" selection-start-line="52" selection-end-line="52" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+            <element signature="e#145#419#0" />
+            <element signature="e#453#581#0" />
+            <element signature="e#612#928#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

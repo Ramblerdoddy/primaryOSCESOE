@@ -42,12 +42,11 @@ populateQuestions()
 #         topicObj.name = file.replace(".pickle", "")
 #         topicObj.save()
 
-# path = 'Topics/TopicObjects/physics'
-# file = "55 General aspects of pressure.pickle"
+# path = 'Topics/TopicObjects/clinical'
+# file = "49 Burns and trauma.pickle"
 # with open(path + '/' + file, 'rb') as pickleFile:
 #             topicObj = pickle.load(pickleFile)
 # print(topicObj.questions)
 #
 # topicObj.allQuestionsEntered = False
 # topicObj.addQuestions()
-# topicObj.save()
