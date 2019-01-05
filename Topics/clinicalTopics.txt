@@ -1,0 +1,35 @@
+38. The Jehovah's witness
+39. Obesity
+40. Paediatric patient
+41. Pregnancy
+42. Elderly patient
+43. Down's syndrome
+44. Sickle cell anaemia
+45. Rheumatoid arthritis
+46. Diabetes
+47. Hypertensive patient
+48. Chronic obstructive pulmonary disease
+49. Burns and trauma
+50. Brainstem death and organ donation
+51. Anaphylaxis
+52. Aspiration
+53. Awareness
+54. Blood transfusion error
+55. Bradycardia
+56. Cyanosis
+57. Difficult to ventilate (high airway pressures)
+58. Failed intubation
+59. Failure to breathe
+60. High spinal block
+61. Hypertension
+62. Hypotension
+63. Hypoxia
+64. Intra-arterial injection
+65. Laryngospasm
+66. Local anaesthetic toxicity
+67. Malignant hyperpyrexia
+68. Needlestick injury
+69. Post-dural puncture headache
+70. ST segment changes
+71. Tachyarrhythmias
+72. Venous air embolism

@@ -1,0 +1,37 @@
+1. Receptors
+2. Mechanism of drug action
+3. Drug interactions
+4. Drug absorption
+5. Drugs and the liver
+6. Drugs and the kidney
+7. Variations in drug metabolism
+8. Isomers
+9. Drugs to draw
+10. Exponential functions
+11. Dose-response curves
+12. First and zero order kinetics
+13. Volume of distribution clearance and half life
+14. Compartment models
+15. Total intravenous anaesthesia
+16. Induction agents
+17. Nitrous oxide
+18. Inhalational anaesthetic agents
+19. Neuromuscular blocking drugs
+20. Cholineterase inhibitors and reversal agents
+21. Antimuscarinic drugs
+22. Opioids
+23. Local anaesthetics
+24. Antiemetics and prokinetics
+25. Antiarrhythmic drugs
+26. Antihypertensive agents
+27. Diuretics
+28. Non-steroidal anti-inflammatory drugs
+29. Antibiotics
+30. Anticoagulants
+31. Anti-platelet agents
+32. Blood
+33. Hypoglycaemic agents
+34. Anticonvulsants
+35. Antidepressants
+36. Drugs used to treat asthma
+37. Miscellaneous drugs
