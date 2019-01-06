@@ -8,7 +8,7 @@ class Topic:
         self.avgScore = 0
         self.tested = False
         self.questions = []
-        self.scores = {}
+        self.scores = []
         self.allQuestionsEntered = False
 
     def addQuestions(self, rewrite = False):
